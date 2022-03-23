@@ -1,8 +1,0 @@
-prefix=/home/carlos/Escritorio/localcatkin_ws/devel
-
-Name: DatosRobot
-Description: Description of DatosRobot
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
